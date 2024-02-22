@@ -1,0 +1,51 @@
+{
+  "app": {
+    "title": "Merchant Console",
+    "langs": {
+      "zh": "中文简体",
+      "en": "English",
+      "vi": "Tiếng Vi"
+    }
+  },
+  "menu": {
+    "help": "Help",
+    "admin": "Admin Manage",
+    "dashboard": "Dashboard",
+    "home": "Home",
+    "product": "Products",
+    "order": "Order",
+    "category": "Categories",
+    "message": "Message",
+    "setting": "Setting",
+    "platform": "Platform",
+    "telegram": "Telegram",
+    "whatsapp": "Whatsapp",
+    "store": "Store"
+  },
+  "user": {
+    "logout": "Logout",
+    "setting": "Setting"
+  },
+  "notify": {
+    "title": "Notification",
+    "read": "Mark as all read",
+    "all": "View All"
+  },
+  "login": {
+    "pageTitle": "Merchant Admin",
+    "button": "Login",
+    "loginWith": "Login with",
+    "username": {
+      "label": "Username",
+      "placeholder": "Please input username"
+    },
+    "password": {
+      "label": "Password",
+      "placeholder": "Please input password"
+    },
+    "authcode": {
+      "label": "Verification code",
+      "placeholder": "Please input verification code"
+    }
+  }
+}

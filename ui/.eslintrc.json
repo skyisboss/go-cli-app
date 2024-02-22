@@ -1,0 +1,39 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["@typescript-eslint/eslint-plugin"],
+  "extends": ["alloy", "alloy/react", "alloy/typescript"],
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "env": {},
+  "globals": {},
+  "rules": {
+    "@typescript-eslint/no-empty-interface": "off",
+    "@typescript-eslint/prefer-optional-chain": "off",
+    "@typescript-eslint/explicit-member-accessibility": "off",
+    "no-undef": "off",
+    "no-useless-catch": "off",
+    "no-promise-executor-return": "off",
+    "@typescript-eslint/prefer-for-of": "off",
+    "@typescript-eslint/no-require-imports": "off",
+    "radix": "off",
+    "prefer-promise-reject-errors": "off",
+    "no-unused-vars": [
+      "off",
+      {
+        "vars": "all",
+        "args": "none",
+        "ignoreRestSiblings": false,
+        "varsIgnorePattern": "^_",
+        "argsIgnorePattern": "^_"
+      }
+    ],
+    "max-params": ["error", { "max": 10 }],
+    "prefer-object-spread": "off",
+    "react/prop-types": 0,
+    "max-nested-callbacks": ["error", 5],
+    "no-eval": "off"
+  }
+}

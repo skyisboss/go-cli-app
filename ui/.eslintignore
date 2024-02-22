@@ -1,0 +1,4 @@
+auto-imports.d.ts
+src/**/**.d.ts
+**/*.js
+**.d.ts

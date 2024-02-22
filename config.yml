@@ -1,0 +1,7 @@
+version: 1.0.0
+port: 52088
+debug: true
+appkey: 123
+logger:
+  pretty: true
+  level: debug

@@ -1,0 +1,61 @@
+{
+  "common": {
+    "appTitle": "管理后台",
+    "add": "新增",
+    "edit": "编辑",
+    "remove": "移除",
+    "delete": "删除",
+    "search": "搜索",
+    "searchPlaceholder": "输入内容搜索...",
+    "sort": "排序",
+    "filter": "筛选",
+    "selected": "已选择 {count} 项",
+    "deleteSelected": "删除选中",
+    "action": "操作",
+    "choose":"请选择",
+    "normal": "正常",
+    "hidden": "隐藏",
+    "default": "默认",
+    "button": {
+      "add": "新增",
+      "save": "保存",
+      "cancel": "取消",
+      "confirm": "确认",
+      "exit": "退出"
+    },
+    "langVersion": {
+      "title": "多语言管理",
+      "zhField": "中文(默认)",
+      "enField": "英语",
+      "viField": "越南语"
+    },
+    "langs": {
+      "zh": "中文简体",
+      "en": "English",
+      "vi": "Tiếng Vi"
+    }
+  },
+  "login": {
+    "pageTitle": "登录管理后台",
+    "button": "登录",
+    "loginWith": "使用其他方式",
+    "username": {
+      "label": "账号",
+      "placeholder": "请输入账号"
+    },
+    "password": {
+      "label": "密码",
+      "placeholder": "请输入密码"
+    },
+    "authcode": {
+      "label": "验证码",
+      "placeholder": "请输入验证码"
+    }
+  },
+  "user": {
+    "logout": "注销登录",
+    "logoutConfirmTitle": "确认注销登录吗？",
+    "setting": "账号设置"
+  },
+  "home": {}
+}
